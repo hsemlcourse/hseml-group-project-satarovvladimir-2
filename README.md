@@ -8,6 +8,9 @@
 **Датасет:** [VK-LSVD (Large Scale Video Dataset)](https://huggingface.co/datasets/deepvk/VK-LSVD) от команды VK.
 **Целевая метрика:** MAE MSE RMSE R2.
 
+*ВЕСЬ ДАТА СЕТ В ПРОЕКТЕ СКАЧАТЬ ПО ССЫЛКЕ (ВЕСИЛ МНОГО НЕ МОГ ЗАГРУЗИТЬ В Git*
+(https://disk.360.yandex.ru/d/RYTX5_yEKXtN6w)
+
 Цель проекта — построить модель, способную точно прогнозировать, какую долю видео посмотрит пользователь, основываясь на метаданных контента, поведении юзера и его демографии.
 
 $$Target = \min\left(1.0, \frac{timespent}{duration}\right)$$
